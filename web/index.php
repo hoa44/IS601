@@ -34,17 +34,17 @@ $app->register(new Silex\Provider\TwigServiceProvider(), array(
 
 // Our web handlers
 
-// $app->get('/', function() use($app) {
-//  $app['monolog']->addDebug('logging output.');
-//  return $app['twig']->render('index.twig');
-//});
+$app->get('/', function() use($app) {
+  $app['monolog']->addDebug('logging output.');
+  return $app['twig']->render('index.twig');
+});
 
 // Modified example web handlers
 
-$app->get('/', function() use($app) {
-  $app['monolog']->addDebug('logging output.');
-  return str_repeat('Hello-', getenv('TIMES'));
-});
+// $app->get('/', function() use($app) {
+//  $app['monolog']->addDebug('logging output.');
+//  return str_repeat('Hello-', getenv('TIMES'));
+//});
 
 // Added Cowsay with IS601 message
 
