@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="32b2b9d9-7b73-460a-bf1e-0a8995732e7a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/views/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/views/index.twig" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/index.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +39,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/views/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state>
+              <caret column="22" selection-start-column="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -47,8 +48,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/views/index.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="47" column="137" lean-forward="true" selection-start-line="47" selection-start-column="137" selection-end-line="47" selection-end-column="137" />
+            <state relative-caret-position="15">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -87,8 +88,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/views/header.html" />
         <option value="$PROJECT_DIR$/web/views/index.twig" />
+        <option value="$PROJECT_DIR$/web/views/header.html" />
       </list>
     </option>
   </component>
@@ -236,7 +237,7 @@
       <workItem from="1549041630571" duration="6350000" />
       <workItem from="1549114041456" duration="8145000" />
       <workItem from="1549227607981" duration="1913000" />
-      <workItem from="1549281730415" duration="5287000" />
+      <workItem from="1549281730415" duration="8195000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit with basic table added to index.twig">
       <created>1549116039314</created>
@@ -263,11 +264,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26885000" />
+    <option name="totallyTimeSpent" value="29793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="2489" height="1208" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22881703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -282,9 +282,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49693" weight="0.2997225" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="PHP-CGI Server" order="10" sideWeight="0.49979535" visible="true" weight="0.32993513" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49733934" weight="0.42817423" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5002047" side_tool="true" visible="true" weight="0.32993513" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="10" sideWeight="0.49979535" weight="0.32993513" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.49693" visible="true" weight="0.42817423" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50307" side_tool="true" visible="true" weight="0.42817423" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49897668" weight="0.32993513" />
       <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49974108" weight="0.32988358" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -359,15 +359,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/views/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/views/index.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="47" column="137" lean-forward="true" selection-start-line="47" selection-start-column="137" selection-end-line="47" selection-end-column="137" />
+        <state relative-caret-position="15">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
         </state>
       </provider>
     </entry>
