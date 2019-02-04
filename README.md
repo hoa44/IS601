@@ -1,8 +1,6 @@
-# php-getting-started
+# IS601 Repository for hoa44 
 
-A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
-
-This application supports the [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php) article - check it out.
+This is a bootcamp style bridge course covering test driven web application development using Php frameworks.
 
 ## Deploying
 
