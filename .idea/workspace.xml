@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32b2b9d9-7b73-460a-bf1e-0a8995732e7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/web/stylesheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/stylesheets/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/views/index.twig" beforeDir="false" afterPath="$PROJECT_DIR$/web/views/index.twig" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/views/index.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="78" column="992" selection-start-line="78" selection-start-column="992" selection-end-line="78" selection-end-column="992" />
+            <state relative-caret-position="490">
+              <caret line="78" column="875" selection-start-line="78" selection-start-column="875" selection-end-line="78" selection-end-column="875" />
             </state>
           </provider>
         </entry>
@@ -265,7 +264,7 @@
       <workItem from="1549041630571" duration="6350000" />
       <workItem from="1549114041456" duration="8145000" />
       <workItem from="1549227607981" duration="1913000" />
-      <workItem from="1549281730415" duration="11691000" />
+      <workItem from="1549281730415" duration="12201000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit with basic table added to index.twig">
       <created>1549116039314</created>
@@ -292,7 +291,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33289000" />
+    <option name="totallyTimeSpent" value="33799000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="2489" height="1208" extended-state="6" />
@@ -402,8 +401,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/views/index.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="78" column="992" selection-start-line="78" selection-start-column="992" selection-end-line="78" selection-end-column="992" />
+        <state relative-caret-position="490">
+          <caret line="78" column="875" selection-start-line="78" selection-start-column="875" selection-end-line="78" selection-end-column="875" />
         </state>
       </provider>
     </entry>
