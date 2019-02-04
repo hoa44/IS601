@@ -47,8 +47,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/views/index.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="97" column="6" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
+            <state relative-caret-position="480">
+              <caret line="47" column="137" lean-forward="true" selection-start-line="47" selection-start-column="137" selection-end-line="47" selection-end-column="137" />
             </state>
           </provider>
         </entry>
@@ -128,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -185,6 +184,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,6 +236,7 @@
       <workItem from="1549041630571" duration="6350000" />
       <workItem from="1549114041456" duration="8145000" />
       <workItem from="1549227607981" duration="1913000" />
+      <workItem from="1549281730415" duration="5287000" />
     </task>
     <task id="LOCAL-00001" summary="Testing commit with basic table added to index.twig">
       <created>1549116039314</created>
@@ -251,17 +252,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549116361365</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Testing commit with basic table added to index.twig again">
+      <created>1549241354100</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549241354100</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20969000" />
+    <option name="totallyTimeSpent" value="26885000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1977" height="902" extended-state="6" />
+    <frame x="67" y="25" width="2489" height="1208" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22682548" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22881703" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -274,10 +282,11 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49693" weight="0.2997225" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="10" weight="0.32993513" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49818748" visible="true" weight="0.42820182" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="12" sideWeight="0.5018125" side_tool="true" visible="true" weight="0.42820182" />
+      <window_info active="true" anchor="bottom" id="PHP-CGI Server" order="10" sideWeight="0.49979535" visible="true" weight="0.32993513" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49733934" weight="0.42817423" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.5002047" side_tool="true" visible="true" weight="0.32993513" />
       <window_info anchor="bottom" id="GitHub Pull Requests" order="13" sideWeight="0.49897668" weight="0.32993513" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.49974108" weight="0.32988358" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -328,6 +337,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="Testing commit" />
     <MESSAGE value="Testing commit with basic table added to index.twig" />
     <MESSAGE value="Testing commit with basic table added to index.twig again" />
@@ -356,8 +366,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/views/index.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="97" column="6" selection-start-line="97" selection-start-column="6" selection-end-line="97" selection-end-column="6" />
+        <state relative-caret-position="480">
+          <caret line="47" column="137" lean-forward="true" selection-start-line="47" selection-start-column="137" selection-end-line="47" selection-end-column="137" />
         </state>
       </provider>
     </entry>
